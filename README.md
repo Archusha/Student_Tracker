@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# studenttracker
-=======
-# Student_Tracker
->>>>>>> 4657d81623616c374a397ce4ebcd0e3ca55b8065
+# Student Tracker
+
+A Java-based application to manage student records, grades, and performance tracking.
+
+## Features
+- Add / update / delete student details
+- Track grades and marks
+- View student performance
